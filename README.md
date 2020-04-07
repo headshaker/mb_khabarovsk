@@ -79,7 +79,7 @@
 
 Файл с нормализованными данными		WIP
 
-Файл с программой обработки					[Profession.ipynb](profession.ipynb)
+Файл с программой обработки					[profession.ipynb](Profession.ipynb)
 
 ![График 1](img/profession.png)
 
